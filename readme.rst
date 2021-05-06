@@ -1,5 +1,5 @@
 ###################
-Session Login dengan codeigniter 3
+Session Login Logout dengan codeigniter 3
 ###################
 
 - github.com/rizkytegar
