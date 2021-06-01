@@ -1,6 +1,5 @@
-###################
-Session Login Logout dengan codeigniter 3
-###################
+# Session Login Logout dengan codeigniter 3
+
 
 Dibangun dengan : 
 
@@ -13,6 +12,6 @@ Library Keamanan
 - Form Validation
 - MD5 encrypt
 
-#DEMO
+# DEMO
 
 ![img](https://i.ibb.co/kXsqGG8/Screenshot-from-2021-05-07-03-49-48.png)
