@@ -1,4 +1,4 @@
-# Session Login Logout dengan codeigniter 3
+# Session Login And Logout dengan codeigniter 3
 
 
 Dibangun dengan : 
